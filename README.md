@@ -1,12 +1,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images.pexels.com/photos/5367394/pexels-photo-5367394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+  <img width=100% src="https://images.pexels.com/photos/5367394/pexels-photo-5367394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 

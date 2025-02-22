@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width=100% src="https://images.pexels.com/photos/5367394/pexels-photo-5367394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+  <img width=100% src="https://github.com/MipoRepo/MipoRepo/blob/main/heading_picture.png"  />
 </div>
 
 

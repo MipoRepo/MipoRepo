@@ -102,7 +102,7 @@
 
 ####
 
-  [MipoRepo GitLab ](https://gitlab.com/MipoRepo)
+<a href="https://gitlab.com/MipoRepo" target="_blank">**MipoRepo GitLab**</a>
 
 ####
   

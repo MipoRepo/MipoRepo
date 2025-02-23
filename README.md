@@ -100,8 +100,11 @@
 </div>
 <div>
 
-  [MipoRepon sivut: ](https://miporepo.github.io/miporeposite/)
+####
 
+  [MipoRepo in GitLab ](https://gitlab.com/MipoRepo)
+
+####
   
 </div>
 ###

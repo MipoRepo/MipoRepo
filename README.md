@@ -102,9 +102,9 @@
 
 ####
 
-  [MipoRepo in GitLab ](https://gitlab.com/MipoRepo)
+  [MipoRepo GitLab ](https://gitlab.com/MipoRepo)
 
 ####
   
 </div>
-###
+

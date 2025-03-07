@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm just starting to use this repository.</p>
+<p align="left">I'm just starting to use this repository. Things are pretty chaotic here at the moment.</p>
 
 ###
 

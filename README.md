@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I'm just starting to use this repository.</p>
 
 ###
 

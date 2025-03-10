@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">I'm just starting to use this repository. Things are pretty chaotic here at the moment. But finally, I'm starting to edit the README of my profile.</p>
+<p align="left">I'm just starting to use this repository. Things are pretty chaotic here at the moment.</p>
+<p align="left">..But finally, I'm starting to edit the readme of my profile.</p>
 
 ###
 

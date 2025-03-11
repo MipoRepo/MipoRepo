@@ -1,5 +1,5 @@
-###
 
+<link href="https://fonts.googleapis.com/css2?family=C64+Pro+Mono&display=swap" rel="stylesheet">
 <div align="center">
   <img width=100% src="https://github.com/MipoRepo/MipoRepo/blob/main/heading_picture.png"  />
 </div>
@@ -59,12 +59,86 @@
 </div>
 <div>
 
-####
+###
 
+<div align="right">
 <a href="https://gitlab.com/MipoRepo" target="_blank">MipoRepo GitLab - it's a bit quieter over there...</a>
+</div>
 
+###
 
-####
+###
+
+<h2 align="left">Code For Fun:</h2>
+
+###
+
+<pre>
+.org $0801
+.byte $9e, $32, $30, $36, $36, $00, $00
+      
+s:
+  ldx #$00
+  lda #$1b
+  jsr $fd60
+  lda #$5b
+  jsr $fd60
+  lda #$32
+  jsr $fd60
+  lda #$30
+  jsr $fd60
+  lda #$6d
+  jsr $fd60
+  lda m1, x
+p_h:
+  jsr $fd60
+  inx
+  lda m1, x
+  bne p_h
+  lda #$0d
+  jsr $fd60
+  lda #$0a
+  jsr $fd60
+  ldx #$00
+  lda m2, x
+p_c:
+  jsr $fd60
+  inx
+  lda m2, x
+  bne p_c
+  lda #$0d
+  jsr $fd60
+  lda #$0a
+  jsr $fd60
+  ldx #$00
+  lda m3, x
+p_m:
+  jsr $fd60
+  inx
+  lda m3, x
+  bne p_m
+  lda #$1b
+  jsr $fd60
+  lda #$5b
+  jsr $fd60
+  lda #$30
+  jsr $fd60
+  lda #$30
+  jsr $fd60
+  lda #$6d
+  jsr $fd60
+ p_e:
+  ror
+ m1:
+  .byte $48, $65, $6c, $6c, $6f, $20, $57, $6f, $72, $6c, $64, $21, $00
+ m2:
+  .byte $43, $68, $65, $65, $72, $73, $2c, $00
+ m3:
+  .byte $4d, $69, $6b, $6b, $6f, $21, $00
+
+ </pre>
+ </body>
+</html>
   
 </div>
 

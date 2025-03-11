@@ -76,64 +76,53 @@
 <pre>
 .org $0801
 .byte $9e, $32, $30, $36, $36, $00, $00
-      
+
 s:
   ldx #$00
-  lda #$1b
-  jsr $fd60
-  lda #$5b
-  jsr $fd60
-  lda #$32
-  jsr $fd60
-  lda #$30
-  jsr $fd60
-  lda #$6d
-  jsr $fd60
-  lda m1, x
+
 p_h:
-  jsr $fd60
+  lda h, x
+  beq p_c
+  jsr $ffd2
   inx
-  lda m1, x
-  bne p_h
-  lda #$0d
-  jsr $fd60
-  lda #$0a
-  jsr $fd60
-  ldx #$00
-  lda m2, x
+  jmp p_h
+
 p_c:
-  jsr $fd60
-  inx
-  lda m2, x
-  bne p_c
-  lda #$0d
-  jsr $fd60
-  lda #$0a
-  jsr $fd60
   ldx #$00
-  lda m3, x
-p_m:
-  jsr $fd60
+  lda #$0d
+  jsr $ffd2
+  lda #$0a
+  jsr $ffd2
+
+p_c_l:
+  lda c, x
+  beq p_m
+  jsr $ffd2
   inx
-  lda m3, x
-  bne p_m
-  lda #$1b
-  jsr $fd60
-  lda #$5b
-  jsr $fd60
-  lda #$30
-  jsr $fd60
-  lda #$30
-  jsr $fd60
-  lda #$6d
-  jsr $fd60
- p_e:
+  jmp p_c_l
+
+p_m:
+  ldx #$00
+  lda #$0d
+  jsr $ffd2
+  lda #$0a
+  jsr $ffd2
+
+p_m_l:
+  lda m, x
+  beq end
+  jsr $ffd2
+  inx
+  jmp p_m_l
+
+end:
   rts
- m1:
+
+h:
   .byte $48, $65, $6c, $6c, $6f, $20, $57, $6f, $72, $6c, $64, $21, $00
- m2:
+c:
   .byte $43, $68, $65, $65, $72, $73, $2c, $00
- m3:
+m:
   .byte $4d, $69, $6b, $6b, $6f, $21, $00
 
  </pre>

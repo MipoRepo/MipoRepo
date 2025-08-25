@@ -11,8 +11,8 @@
 
 ###
 
-<p align="left">I'm just starting to use this repository. I'm starting to edit the readme of my profile. Things are pretty chaotic here at the moment.</p>
-<p align="left">Maybe one day there will be something meaningful here. 😂</p>
+<p align="left">I'm just starting to use this repository and edit the readme of my profile. Things are pretty chaotic here at the moment.😵‍💫This space will grow as I grow—line by line, idea by idea. 🌱</p>
+<p align="left">Maybe one day there will be something meaningful here. ✨</p>
 
 ###
 

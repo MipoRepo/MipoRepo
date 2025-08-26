@@ -14,6 +14,15 @@
 <p align="left">I'm just starting to use this repository and edit the readme of my profile. Things are pretty chaotic here at the moment.😵‍💫This space will grow as I grow — line by line, idea by idea. 🌱</p>
 <p align="left">Maybe one day there will be something meaningful here. ✨</p>
 
+### Current Studies and Project Work  
+
+I am currently studying **software development** and working together with six colleagues on developing a **PrestaShop e-commerce platform**.  
+The solution is deployed on cloud-based Linux virtual machines and utilizes **Docker container technology** for scalability and maintainability.  
+
+**Demo sites:**  
+- [CSC Pouta VM Deployment](https://vm4726.kaj.pouta.csc.fi/)  
+- [Team site](https://site-42c0a9.pages.labranet.jamk.fi/)  
+
 ###
 
 <h2 align="left">About me</h2>

@@ -70,7 +70,7 @@ The solution is deployed on cloud-based Linux virtual machines and utilizes **Do
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/copilot-text.png" height="20"   />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/deepseek-color.svg" height="40"   />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/deepseek-text.png" height="20"   />
-  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai.png" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai.png" height="25"   />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai-text.png" height="20"   />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/dalle-text.png" height="15"   />
           

@@ -65,11 +65,14 @@ The solution is deployed on cloud-based Linux virtual machines and utilizes **Do
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/scrum-org-logo.png" height="40"   />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/devops.png" height="40"   />
-  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/claude-text.png" height="40"   />
-  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/copilot-text.png" height="40"   />
-  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/deepseek-text.png" height="40"   />
-  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai.png" height="40"   />
-  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/dalle-text.png" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/claude-text.png" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/copilot-color.svg" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/copilot-text.png" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/deepseek-color.svg" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/deepseek-text.png" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai-text.svg" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai.png" height="20"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/dalle-text.png" height="20"   />
           
   </div>
 <div>

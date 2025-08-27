@@ -65,6 +65,11 @@ The solution is deployed on cloud-based Linux virtual machines and utilizes **Do
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/scrum-org-logo.png" height="40"   />
   <img src="https://github.com/MipoRepo/MipoRepo/blob/main/devops.png" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/claude-text.svg" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/copilot-text.svg" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/deepseek-text.svg" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai-text.svg" height="40"   />
+  <img src="https://github.com/MipoRepo/MipoRepo/blob/main/openai.svg" height="40"   />
           
   </div>
 <div>

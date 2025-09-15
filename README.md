@@ -79,8 +79,8 @@ The solution is deployed on cloud-based Linux virtual machines and utilizes **Do
 
 ###
 
-<div align="right">
-<a href="https://gitlab.com/MipoRepo" target="_blank">MipoRepo GitLab - it's a bit quieter over there...</a>
+<div align="left">
+<a href="https://gitlab.com/MipoRepo" target="_blank">MipoRepo GitLab – A collection of selected study materials and project work.</a>
 </div>
 
 ###

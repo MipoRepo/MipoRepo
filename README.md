@@ -80,7 +80,7 @@ The solution is deployed on cloud-based Linux virtual machines and utilizes **Do
 ###
 
 <div align="left">
-<a href="https://gitlab.com/MipoRepo" target="_blank">MipoRepo GitLab – A collection of selected study materials and project work.</a>
+<a href="https://gitlab.com/users/MipoRepo/projects" target="_blank">MipoRepo GitLab – Some study materials and project works.</a>
 </div>
 
 ###

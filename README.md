@@ -16,10 +16,10 @@
 
 # Agentic Software Development Projects in 2026
 
-Building agentic software projects with Claude Code, leveraging LLM‑powered agent models and modern development components.
+In 2026 I’ve focused on building agentic software projects with Claude Code, leveraging LLM‑powered agent models and modern development components.
 
-### Software Development Studies Deepened at JAMK in 2025
-[JAMK](https://www.jamk.fi){:target="_blank"} 
+## Software Development Studies Deepened at JAMK in 2025
+[JAMK](https://www.jamk.fi)
 
 I was studying software development and working together with six colleagues on developing a PrestaShop e-commerce platform last year. The solution was deployed on cloud-based Linux virtual machines and utilized Docker container technology for scalability and maintainability.
 **Team sites:**   

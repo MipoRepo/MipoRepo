@@ -14,7 +14,7 @@
 <p align="left">This space "MipoRepo" will grow as I grow — line by line, idea by idea. 🌱</p>
 <p align="left">Maybe one day there will be something meaningful here. ✨</p>
 
-# Agentic Software Development Projects in 2026
+# Agentic Software Development 2026
 
 In 2026 I’ve focused on building agentic software projects with Claude Code, leveraging LLM‑powered agent models and modern development components.
 

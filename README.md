@@ -11,16 +11,18 @@
 
 ###
 
-<p align="left">I'm just starting to use this repository and edit the readme of my profile. Things are pretty chaotic here at the moment.😵‍💫This space will grow as I grow — line by line, idea by idea. 🌱</p>
+<p align="left">This space "MipoRepo" will grow as I grow — line by line, idea by idea. 🌱</p>
 <p align="left">Maybe one day there will be something meaningful here. ✨</p>
 
-### Current Studies and Project Work  
+# Agentic Software Development Projects in 2026
 
-I am currently studying **software development** and working together with six colleagues on developing a **PrestaShop e-commerce platform**.  
-The solution is deployed on cloud-based Linux virtual machines and utilizes **Docker container technology** for scalability and maintainability.  
+Building agentic software projects with Claude Code, leveraging LLM‑powered agent models and modern development components.
 
-**Demo sites:**  
-- [CSC Pouta VM Deployment](https://vm4726.kaj.pouta.csc.fi/)  
+### Software Development Studies Deepened at JAMK in 2025
+[JAMK](https://www.jamk.fi){:target="_blank"} 
+
+I was studying software development and working together with six colleagues on developing a PrestaShop e-commerce platform last year. The solution was deployed on cloud-based Linux virtual machines and utilized Docker container technology for scalability and maintainability.
+**Team sites:**   
 - [Team site](https://site-42c0a9.pages.labranet.jamk.fi/)  
 
 ###

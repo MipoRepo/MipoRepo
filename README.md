@@ -31,7 +31,7 @@ I was studying software development and working together with six colleagues on 
 
 ###
 
-<p align="left">✨ Creating bugs since 1984<br>🧠 I'm diving into AI-powered full-stack development not just to build apps — but to deepen my inner mental understanding. By creating intelligent systems that reflect and decode my inner world, one bug at a time, I'm learning to strengthen my mental resilience. And if I happen to become a true nerd along the way... well, that's just a bonus.<br>🎯 Goals: To Be Good!<br>🎲 Fun fact: Not so good yet... but working on it.</p>
+<p align="left">Creating bugs since 1984<br>I'm diving into AI-powered full-stack development not just to build apps — but to deepen my inner mental understanding. By creating intelligent systems that reflect and decode my inner world, one bug at a time, I'm learning to strengthen my mental resilience. And if I happen to become a true nerd along the way... well, that's just a bonus.<br>Goals: To Be Good!<br>Fun fact: Not so good yet... but working on it.</p>
 
 ###
 

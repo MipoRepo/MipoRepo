@@ -19,9 +19,9 @@
 In 2026 I’ve focused on building agentic software projects with Claude Code, leveraging LLM‑powered agent models and modern development components.
 
 ## Software Development Studies Deepened at JAMK in 2025
-[JAMK](https://www.jamk.fi)
+[JAMK University of Applied Sciences](https://www.jamk.fi)
 
-I was studying software development and working together with six colleagues on developing a PrestaShop e-commerce platform last year. The solution was deployed on cloud-based Linux virtual machines and utilized Docker container technology for scalability and maintainability.
+I was studying software development and working together with six colleagues on developing a PrestaShop e-commerce platform last year. The solution was deployed on cloud-based Linux machines and utilized Docker container technology for scalability and maintainability.
 **Team sites:**   
 - [Team site](https://site-42c0a9.pages.labranet.jamk.fi/)  
 
